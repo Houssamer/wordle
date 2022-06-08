@@ -169,8 +169,8 @@ const styles = StyleSheet.create({
     display: "flex",
     alignItems: "center",
     justifyContent: "center",
-    width: SIZE / 6.5,
-    height: SIZE / 6.5,
+    width: SIZE / 8,
+    height: SIZE / 8,
     borderRadius: 10,
   },
   letter: {
