@@ -18,7 +18,7 @@ interface gameState2 {
   gameLanguage: string;
 }
 
-const initialState: gameState = {
+const initialState: gameState2 = {
   solution: '',
   guesses: [...initialGuesses],
   currentGuessIndex: 0,
